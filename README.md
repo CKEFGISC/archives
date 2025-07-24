@@ -1,3 +1,18 @@
+# TL;DR
+
+```
+python3 rws-archive.py [cms ranking 頁面]
+```
+如果你沒有噁心人的話就是
+```
+python3 rws-archiver.py https://iscoj.ckefgisc.org/cms/ranking
+```
+不能用就先pip intsall
+```
+pip3 -r requirements.txt
+```
+
+
 # CMS Ranking Archiver
 
 This program crawls the data from a CMS Ranking Web Server (RWS) and generates a static web page
