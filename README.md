@@ -9,7 +9,7 @@ python3 rws-archiver.py https://iscoj.ckefgisc.org/cms/ranking
 ```
 不能用就先pip intsall
 ```
-pip3 -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 
